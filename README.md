@@ -473,16 +473,16 @@ this is my first repository
             <div class="footer-column">
                 <h3>mail us</h3>
                 <ul>
-                    <li>Flipkart Internet Private Limited,</li>
-                    <li>Buildings Alyssa, Begonia &</li>
-                    <li>Clove Embassy Tech Village,</li>
-                    <li>Bengaluru, 560103</li>
+                    <li>Flipkart Clone,</li>
+                    <li>abc xyz &</li>
+                    <li>...........,</li>
+                    <li>jalgoan 443556</li>
                 </ul>
             </div>
         </div>
         
         <div class="copyright">
-            © 2023 Flipkart Clone. All Rights Reserved
+            © 2025 Flipkart Clone. All Rights Reserved
         </div>
     </footer>
     
